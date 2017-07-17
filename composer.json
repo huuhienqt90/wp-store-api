@@ -1,0 +1,14 @@
+{
+    "name": "huuhien/store",
+    "description": "A store api using wordpress",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Ho Huu Hien",
+            "email": "admin@thinkbest4you.com"
+        }
+    ],
+    "require": {
+        "nategood/httpful": "^0.2.20"
+    }
+}
